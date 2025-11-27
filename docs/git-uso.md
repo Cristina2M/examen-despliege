@@ -33,10 +33,3 @@
 4º paso CREACIÓN TESTS Y ACTION
 - Creo el test para app.js
 - Creo el contenido de ci.yml en el que verifica que haya js, realiza los tests y después genera la documentación
-  
-5º paso CREACIÓN RAMA release/
-- Creamos la rama release que se encarga de comprobar que todo funcione antes de pasar el contenido a main
-- Comprobamos que el action funcione correctamente y no haya algún error entre archivos
-
-### URL PROYECTO DESPLEGADO
-https://cristina2m.github.io/examen-despliege/src/
