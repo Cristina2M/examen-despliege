@@ -4,7 +4,7 @@
   "description": "1º Paso CREACIÓN BASE DE LAS RAMAS PRINCIPALES DEL PROYECTO",
   "main": "index.js",
   "scripts": {
-    "test": "node test/app.test.js",
+    "test": "node tests/app.test.js",
     "build": "mkdir -p dist && cp -r src/* dist/",
     "lint:docs": "echo 'No hay validación de documentación configurada'",
     "docs:build": "npx jsdoc -c jsdoc.json",
