@@ -1,0 +1,24 @@
+{
+  "name": "examen-despliege",
+  "version": "1.0.0",
+  "description": "1º Paso CREACIÓN BASE DE LAS RAMAS PRINCIPALES DEL PROYECTO",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/main.test.js",
+    "build": "mkdir -p dist && cp -r src/* dist/",
+    "lint:docs": "echo 'No hay validación de documentación configurada'",
+    "docs:build": "npx jsdoc -c jsdoc.json",
+    "build-docs": "mkdir -p docs && cp src/index.html docs/index.html && cp -r src/style.css src/main.js docs/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cristina2M/examen-despliege.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cristina2M/examen-despliege/issues"
+  },
+  "homepage": "https://github.com/Cristina2M/examen-despliege#readme"
+}
