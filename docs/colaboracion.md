@@ -1,0 +1,7 @@
+- Se ha creado un repositorio con mi yo en un GitHub
+- He añadido como colaborador a mi otro yo
+- Mi otro yo ha clonado el repositorio
+- Se ha creado ramas feature
+- Ha hecho Pull Request por cada rama feature
+- Mi yo ha revisado que todo esté correcto y no de fallo antes de aceptar el Pull Request
+- Si hubiera algún fallo, se le comentaria para que lo solucione mi otro yo antes de aceptar
