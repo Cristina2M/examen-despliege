@@ -1,5 +1,5 @@
 const assert = require('assert');
-const { Book, BookList } = require('../src/main.js');
+const { Book, BookList } = require('../src/app.js');
 
 
 console.log('Running tests...');
