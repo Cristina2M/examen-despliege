@@ -1,0 +1,1 @@
+![Imagen de la arquitectura del proyecto](../img/arquitectura.png)
