@@ -22,10 +22,16 @@
 - Creación de la estructura para el workflow
 - Creación de la estructura para los tests
 - No se crea la carpeta docs, se genera con el comando "npm run build-docs"
-- 
 
+3º paso MI OTRO YO CLONA EL REPOSITORIO
+- Clono el repositorio
+- Creo los archivos de src, cada uno en un feature diferente
+- Voy creando Pull Request de cada feature hacia develop (NO HACIA MAIN, MAIN NO SE TOCA)
+- Si no hay conflictos, se aceptan los Pull Request
 
-
-
+4º paso CREACIÓN TESTS Y ACTION
+- Creo el test para app.js
+- Creo el contenido de ci.yml en el que verifica que haya js, realiza los tests y después genera la documentación
+  
 
 
